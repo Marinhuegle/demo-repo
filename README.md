@@ -1,3 +1,3 @@
 # Corne keybord
 
-ZMK software for corne.
+ZMK software for corne!
